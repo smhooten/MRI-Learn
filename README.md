@@ -4,4 +4,5 @@ Term project for CS289A, UC Berkeley
 
 # Authors
 Sean Hooten
+
 Nicolas M. Andrade
